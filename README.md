@@ -1,6 +1,6 @@
 😄 Pronouns: she/her
 
-<img src="https://raw.githubusercontent.com/emabrey/emabrey/main/uhoh.js">
+<img src="https://raw.githubusercontent.com/emabrey/emabrey/732042a63e3718f1c07ce7a0b13d372d739f59c5/svg.svg">
 
 ### `std::cout << "Bio" << std::endl;`
 
