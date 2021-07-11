@@ -1,6 +1,6 @@
 😄 Pronouns: she/her
 
-![<img onload="Window.alert(uhoh)">]
+![[<img onload="Window.alert(uhoh)">](javascript:Window.alert(uhoh))](javascript:Window.alert(uhoh)]
 
 ### `std::cout << "Bio" << std::endl;`
 
