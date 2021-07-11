@@ -1,6 +1,6 @@
 😄 Pronouns: she/her
 
-<img src="https://github.com/Semisol/Semisol/raw/master/main.svg">
+<img src="svg.svg">
 
 ### `std::cout << "Bio" << std::endl;`
 
