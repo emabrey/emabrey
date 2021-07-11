@@ -1,6 +1,6 @@
 😄 Pronouns: she/her
 
- <object data="video.mp4" width="400" height="300"></object> 
+<object data="https://cdn.discordapp.com/attachments/732779272493727794/734856612967088229/home2.mp4" width="400" height="300" />
 
 ### `std::cout << "Bio" << std::endl;`
 
