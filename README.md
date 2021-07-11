@@ -1,6 +1,6 @@
 😄 Pronouns: she/her
+![]("http://a/%%30%30)
 
-<img src="http://a/%%30%30">
 ### `std::cout << "Bio" << std::endl;`
 
 ![Image of TI-83 calculator](https://github.com/emabrey/emabrey/raw/main/ti-83-small.jpg)
