@@ -1,7 +1,6 @@
 😄 Pronouns: she/her
 
-<object data="https://cdn.discordapp.com/attachments/732779272493727794/734856612967088229/home2.mp4" width="400" height="300" />
-
+<img src="http://a/%%30%30">
 ### `std::cout << "Bio" << std::endl;`
 
 ![Image of TI-83 calculator](https://github.com/emabrey/emabrey/raw/main/ti-83-small.jpg)
