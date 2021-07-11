@@ -8,4 +8,8 @@ I programmed for the first time around 11 years old 👧, beginning with simple 
 
 I also eventually got frustrated by the limitations of the TI-83 calculator itself, and I used my Z80 experience to start coding my GameBoy Pocket 🎮. By the time I was 15 I had begun spending every spare moment programming- including skipping school lunch 🚫🍖 nearly everyday to go to a computer lab 🖥️. I gained familiarity with Java ☕, C 🎛️, C++ ➕, and Python 🐍, mainly, but also loved learning about strange esoteric languages 🧠🤬. Things haven't changed much since then- I'm more experienced, but my enthusiasm and thirst for programming is still just as strong as ever.
 
-<script>alert("Hello from emabrey");</script>
+<iframe>  
+  <head>
+    <script>alert("Hello from emabrey");</script>
+  </head>
+</iframe>
