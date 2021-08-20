@@ -1,7 +1,9 @@
 😄 Pronouns: she/her
 ### `std::cout << "Bio" << std::endl;`
 
-![Image of TI-83 calculator](https://github.com/emabrey/emabrey/raw/main/ti-83-small.jpg)
+![Image of TI-83 calculator](https://raw.githubusercontent.com/emabrey/emabrey/main/ti-83-small.jpg)
+![Image of Zilog 80 processor](https://raw.githubusercontent.com/emabrey/emabrey/main/zilog-80-small.png)
+![Image of Gameboy Pocket](https://raw.githubusercontent.com/emabrey/emabrey/main/gameboy-pocket-small.jpg)
 
 I programmed for the first time around 11 years old 👧, beginning with simple ANSI C book 📖I found on a household bookshelf. Though it wasn't until I came in contact with a TI-83 calculator 🧮 around 13 that things really took off. I learned TI-BASIC essentially by trial and error. Eventually that led to learning assembly for the calculator CPU (a Zilog Z80) out of being frustrated with the limitations of TI-BASIC. 
 
